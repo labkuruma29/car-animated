@@ -2,7 +2,11 @@
   "reference": {
     "url": "https://www.youtube.com/@DmAutoreviews-p9m"
   },
-  "mine": {},
+  "mine": {
+    "id": "UCVH84QIlExIkKhgqbqeqg9g",
+    "name": "My Cars Reviews 2.0",
+    "thumb": "https://yt3.ggpht.com/Bnwm5p1euCJ7dmdnG2FfR1yWlkCImKphtA3G_Yjmwn2Ct2ZjHK2WcEmwEwE01Vq-KNSpfv9T=s88-c-k-c0x00ffffff-no-rj"
+  },
   "language": "ja",
   "voice": "ja-JP-KeitaNeural",
   "voiceSpeed": 1.08,
